@@ -1,11 +1,52 @@
+<script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+
 <body>
     <div id="contentWrapper">
+        
         <div id="content"> 
+           
+            <div id="container"></div>
+
+
+<script>
+  
+  
+  // Created for Article:
+// https://www.html5andbeyond.com/getting-started-with-react-js-a-quick-start-guide/
+
+class SecondExample extends React.Component {
+    
+    constructor(props) {
+    	super(props);
+    	this.state = {clicks: 0}
+    }
+    
+    handleClick() {
+    	this.setState((prevState) => ({
+      	   clicks: prevState.clicks + 1
+        }));
+    }
+    
+    render() {
+    	return <button onClick={this.handleClick.bind(this)}>Clicked {this.state.clicks} Times</button>
+    }
+    
+}
+
+ReactDOM.render(
+  <SecondExample />,
+  document.getElementById('container')
+);
+  
+</script>
+            
             <div style="background-color:#909090; border-radius: 10px; height: 128px; width: 128px; ">
                 <div style="margin: auto; color: #FFFFFF; font-family: trebuchet; align: center; ">TAP</div>
             </div>
+            
             <div>
-               <audio controls="controls">
+               <audio controls="controls" loop="loop">
                 <source src="yogajoggercomaloop.mp3" type="audio/mp3"/>
             </audio>
                 <div>
