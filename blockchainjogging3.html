@@ -1,10 +1,13 @@
-<head>
-  
+
+  <script src="http://fb.me/react-with-addons-0.13.0-rc1.min.js"></script>
+  <script src="http://fb.me/JSXTransformer-0.13.0-rc1.js"></script>
+  <script src="app.jsx" type="text/jsx;harmony=true"></script>
+
+
+<div id="app-container"></div>
+
     <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-  
-</head>
-<body>
     <div id="contentWrapper">
         
         <div id="content"> 
@@ -36,34 +39,31 @@
 
 <script>
   
-  
-  // Created for Article:
-// https://www.html5andbeyond.com/getting-started-with-react-js-a-quick-start-guide/
-
-class SecondExample extends React.Component {
-    
+  class App extends React.Component {
     constructor(props) {
-    	super(props);
-    	this.state = {clicks: 0}
+        this.state = {
+            count: 0
+        }
     }
-    
-    handleClick() {
-    	this.setState((prevState) => ({
-      	   clicks: prevState.clicks + 1
-        }));
+
+    onClick(e) {
+        this.setState({
+            count: this.state.count + 1
+        });
     }
-    
+
     render() {
-    	return <button onClick={this.handleClick.bind(this)}>Clicked {this.state.clicks} Times</button>
+        return (
+            <div>
+                <h1>{this.state.count}</h1>
+                <button onClick={this.onClick.bind(this)}>Count Up!!</button>
+            </div>
+        )
     }
-    
 }
 
-ReactDOM.render(
-  <SecondExample />,
-  document.getElementById('container')
+React.render(
+    <App/>,
+    document.getElementById('app-container')
 );
-  
 </script>
-</body>
-
