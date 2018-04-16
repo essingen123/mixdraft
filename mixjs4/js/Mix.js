@@ -6847,7 +6847,7 @@ just drafting
                 return this.nodes.source = b.util.createBufferSource(this.buffer), this.nodes.source.connect(this.nodes._mute), this
             },
             play: function(a) {
-                return this.pause().connect(), this.nodes.source.loop = 'true', this.nodes.source.start(b.ac.currentTime, a), this
+                return this.pause().connect(), this.nodes.source.loop = true, this.nodes.source.start(b.ac.currentTime, a), this
             },
             pause: function() {
                 return this.nodes.source && (this.nodes.source.stop(0), this.nodes.source = null), this
