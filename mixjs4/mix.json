@@ -20,17 +20,6 @@
    "duration": 236.74693298339844
   },
   {
-   "name": "blockchainspeechamixvol1.2xmixpan0x",
-   "path": "sounds/blockchainspeechamixvol1.2xmixpan0x.mp3",
-   "pan": -0.7761424462257185,
-   "gain": 0.13388946280991731,
-   "muted": false,
-   "_muted": false,
-   "soloed": false,
-   "afl": true,
-   "duration": 1801.4639892578125
-  },
-  {
    "name": "stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "path": "sounds/stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "pan": -0.23107042666786937,
