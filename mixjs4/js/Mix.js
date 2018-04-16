@@ -1,8 +1,6 @@
 /*!
-  Mix.js - v0.0.1
-  2016-04-05
-  
-  Copyright (c) 2016 Kevin Ennis <kevincennis>
+blabla
+just drafting
 */
 
 
