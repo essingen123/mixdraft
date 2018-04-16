@@ -6702,7 +6702,7 @@
     }), App.module("Models", function(a, b, c, d, e, f) {
         "use strict";
         a.Mix = c.Model.extend({
-            url: "mix.json.php", // mix.json.php switch for dynamic .. 
+            url: "mix.json", // mix.json.php switch for dynamic .. 
             defaults: {
                 name: "Mix",
                 gain: 0.72,
