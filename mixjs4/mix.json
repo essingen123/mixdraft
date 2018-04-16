@@ -9,17 +9,6 @@
  "pan": 0,
  "tracks": [
   {
-   "name": "ananda_mandala_super_simple.mp3",
-   "path": "sounds/ananda_mandala_super_simple.mp3",
-   "pan": -1,
-   "gain": 0.6995041322314047,
-   "muted": false,
-   "_muted": false,
-   "soloed": true,
-   "afl": true,
-   "duration": 236.74693298339844
-  },
-  {
    "name": "stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "path": "sounds/stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "pan": -0.9310870172044619,
@@ -31,19 +20,8 @@
    "duration": 71.35135650634766
   },
   {
-   "name": "blockchainspeechamixvol1.2xmixpan0x.mp3",
-   "path": "sounds/blockchainspeechamixvol1.2xmixpan0x.mp3",
-   "pan": -0.10575758586315487,
-   "gain": 1.3224999999999998,
-   "muted": false,
-   "_muted": false,
-   "soloed": true,
-   "afl": true,
-   "duration": 1801.4639892578125
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.wav",
+   "name": "yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
    "pan": -0.009679373904934563,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -53,8 +31,8 @@
    "duration": 6.486499786376953
   },
   {
-   "name": "yogajoggercomcqbcdefghi 909 HH Closed mixvol1xmixpan0.2x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi 909 HH Closed mixvol1xmixpan0.2x.wav",
+   "name": "yogajoggercomcqbcdefghi 909 HH Closed mixvol1xmixpan0.2x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi 909 HH Closed mixvol1xmixpan0.2x.mp3",
    "pan": 0.2,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -64,8 +42,8 @@
    "duration": 6.486499786376953
   },
   {
-   "name": "yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.wav",
+   "name": "yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
    "pan": 0.4646686019547748,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -76,8 +54,8 @@
   },
 
   {
-   "name": "yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.wav",
+   "name": "yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
    "pan": 0.18065529569563932,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -88,8 +66,8 @@
   },
 
   {
-   "name": "yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.wav",
+   "name": "yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.mp3",
    "pan": 0.024453849016902618,
    "gain": 0.46891368801652883,
    "muted": false,
@@ -100,8 +78,8 @@
   },
 
   {
-   "name": "yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.wav",
+   "name": "yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
    "pan": 0,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -112,8 +90,8 @@
   },
 
   {
-   "name": "yogajoggercomcqbcdefghi open.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi open.wav",
+   "name": "yogajoggercomcqbcdefghi open.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi open.mp3",
    "pan": 0.33933399727466984,
    "gain": 1.1260103822314047,
    "muted": false,
@@ -123,8 +101,8 @@
    "duration": 6.486499786376953
   },
   {
-   "name": "yogajoggercomcqbcdefghi ride mixvol0.2x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi ride mixvol0.2x.wav",
+   "name": "yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
    "pan": 0.13008469206986994,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -135,8 +113,8 @@
   },
 
   {
-   "name": "yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.wav",
+   "name": "yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
    "pan": 0.06320907067957182,
    "gain": 0.8463999999999998,
    "muted": false,
@@ -146,8 +124,8 @@
    "duration": 6.486499786376953
   },
   {
-   "name": "yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.wav",
+   "name": "yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.mp3",
    "pan": 0.04135631934461226,
    "gain": 1.3224999999999998,
    "muted": false,
@@ -157,8 +135,8 @@
    "duration": 6.486499786376953
   },
   {
-   "name": "yogajoggercomcqbcdefghi °-2 mixvol0.5x.wav",
-   "path": "sounds/yogajoggercomcqbcdefghi °-2 mixvol0.5x.wav",
+   "name": "yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
    "pan": -0.12938535012711327,
    "gain": 1.3224999999999998,
    "muted": false,
