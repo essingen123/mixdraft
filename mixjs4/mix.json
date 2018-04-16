@@ -1,10 +1,10 @@
 {
  "name": "Mix demo",
  "gain": 1.68,
- "position": 46.904,
+ "position": 4.978666666666666,
  "minTime": 0,
  "maxTime": 512,
- "playing": true,
+ "playing": false,
  "duration": 71.35135650634766,
  "pan": 0,
  "tracks": [
@@ -12,7 +12,7 @@
    "name": "stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "path": "sounds/stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
    "pan": -0.23107042666786937,
-   "gain": 0.55875625,
+   "gain": 0.29554049586776865,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -23,7 +23,7 @@
    "name": "yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
    "pan": -0.009679373904934563,
-   "gain": 0.5744950929752064,
+   "gain": 0.3804646694214875,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -34,7 +34,7 @@
    "name": "yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
    "pan": 0.21260947201320213,
-   "gain": 0.3934710743801652,
+   "gain": 0.3551076446280991,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -45,7 +45,7 @@
    "name": "yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
    "pan": -0.08767141042470994,
-   "gain": 0.5355578512396693,
+   "gain": 0.09191921487603308,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -78,7 +78,7 @@
    "name": "yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
    "pan": 0.06320907067957182,
-   "gain": 0.566598347107438,
+   "gain": 0.3934710743801652,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -100,7 +100,7 @@
    "name": "yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
    "pan": -0.12938535012711327,
-   "gain": 0.42013966942148745,
+   "gain": 0.40669607438016525,
    "muted": false,
    "_muted": false,
    "soloed": false,
@@ -108,4 +108,4 @@
    "duration": 6.486499786376953
   }
  ]
-}
+}§
