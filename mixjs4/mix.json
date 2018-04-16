@@ -1,11 +1,11 @@
 {
  "name": "Mix demo",
- "gain": 1.68,
- "position": 28.95733333333333,
+ "gain": 1.6,
+ "position": 0,
  "minTime": 0,
- "maxTime": 512,
+ "maxTime": 256,
  "playing": false,
- "duration": 1801.4639892578125,
+ "duration": 256,
  "pan": 0,
  "tracks": [
   {
