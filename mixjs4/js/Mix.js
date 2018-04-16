@@ -1,6 +1,8 @@
 /*!
-blabla
-just drafting
+  Mix.js - v0.0.1
+  2016-04-05
+  
+  Copyright (c) 2016 Kevin Ennis <kevincennis>
 */
 
 
@@ -6847,6 +6849,7 @@ just drafting
                 return this.nodes.source = b.util.createBufferSource(this.buffer), this.nodes.source.connect(this.nodes._mute), this
             },
             play: function(a) {
+ //               return this.pause().connect(), this.nodes.source.loop = 'true', this.nodes.source.start(b.ac.currentTime, a), this
                 return this.pause().connect(), this.nodes.source.loop = true, this.nodes.source.start(b.ac.currentTime, a), this
             },
             pause: function() {
