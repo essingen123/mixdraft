@@ -810,7 +810,9 @@ canvas {
 }
     html, body {
   overflow:hidden;
+        box-sizing: border-box;
 }
+    
 </style>
 <script>
     $(window).bind(
@@ -819,6 +821,8 @@ canvas {
     e.preventDefault();
   }
 );
+    document.addEventListener("touchmove",function(event){event.preventDefault();});
+    
 </script>
    <!-- <link href='http:fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'> -->
 
