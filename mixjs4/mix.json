@@ -1,0 +1,122 @@
+{
+ "name": "Mix demo",
+ "gain": 1.6,
+ "position": 110.16126984126984,
+ "minTime": 0,
+ "maxTime": 256,
+ "playing": true,
+ "duration": 236.74691772460938,
+ "pan": 0,
+ "tracks": [
+  {
+   "name": "ananda_mandala_super_simple_cleaner.mp3",
+   "path": "sounds/ananda_mandala_super_simple_cleaner.mp3",
+   "pan": -0.6732753366966779,
+   "gain": 0.4269434400826445,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 236.74691772460938
+  },
+  {
+   "name": "stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
+   "path": "sounds/stereo-acidmixvol1xmixpan0x 3-Massive.mp3",
+   "pan": -0.23107042666786937,
+   "gain": 0.6480249999999999,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 71.3513412475586
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
+   "pan": -0.009679373904934563,
+   "gain": 0.043719008264462816,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
+   "pan": 0.21260947201320213,
+   "gain": 0.17053145661157026,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
+   "pan": -0.08767141042470994,
+   "gain": 0.1050349173553719,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
+   "pan": 0,
+   "gain": 1.3224999999999998,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
+   "pan": -0.1096511807588545,
+   "gain": 0.1578256198347107,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 2 mixvol0.4x.mp3",
+   "pan": 0.06320907067957182,
+   "gain": 0.3740434400826446,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi ° mixvol1xmixpan0x.mp3",
+   "pan": 0.04135631934461226,
+   "gain": 1.09297520661157,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  },
+  {
+   "name": "yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
+   "path": "sounds/yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
+   "pan": -0.12938535012711327,
+   "gain": 0.28988434917355377,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 6.486485481262207
+  }
+ ]
+}
