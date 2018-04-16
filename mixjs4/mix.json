@@ -4,8 +4,8 @@
  "position": 0,
  "minTime": 0,
  "maxTime": 256,
- "playing": false,
- "duration": 256,
+ "playing": true,
+ "duration": 1800,
  "pan": 0,
  "tracks": [
   {
