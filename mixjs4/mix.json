@@ -9,8 +9,8 @@
  "pan": 0,
  "tracks": [
   {
-   "name": "ananda_mandala_super_simple.mp3",
-   "path": "sounds/ananda_mandala_super_simple.mp3",
+   "name": "ananda_mandala_super_simple_cleaner.mp3",
+   "path": "sounds/ananda_mandala_super_simple_cleaner.mp3",
    "pan": -0.496468471699666,
    "gain": 0.6564682334710741,
    "muted": false,
